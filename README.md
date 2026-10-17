@@ -104,7 +104,7 @@ The 60 retained compounds were evaluated for physicochemical and pharmacokinetic
 
 
 
-ProTox was used to predict the toxicity profiles of the 60 compounds. The predicted toxicity information was considered together with the ADMET results during compound prioritization.
+ProTox was used to predict the toxicity profiles of the 35 compounds. The predicted toxicity information was considered together with the ADMET results during compound prioritization.
 
 
 
@@ -140,7 +140,7 @@ The computational workflow resulted in the following progression:
 
 
 
-76 phytochemicals collected → 60 compounds screened → 12 compounds docked → Rank 1 compound prioritized
+76 phytochemicals collected → 60 compounds screened for ADMET → 35 compounds screened for ProTox  → 12 compounds docked → Rank 1 compound prioritized
 
 
 
