@@ -34,9 +34,10 @@ To screen medicinal phytochemicals and identify a potential HER2-targeting candi
 #### **Dataset**
 
 * Initial medicinal phytochemicals collected		: 76
-* Compounds subjected to ADMET and ProTox analysis	: 60
-* Compounds selected for molecular docking		: 12
-* Final prioritized candidate				: Rank 1 compound
+* Compounds subjected to ADMET analysis        	: 60
+* Compounds subjected to ProTox analysis      	: 35
+* Compounds selected for molecular docking	  	: 12
+* Final prioritized candidate			            	: Rank 1 compound
 
 
 
